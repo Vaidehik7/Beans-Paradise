@@ -1,0 +1,7 @@
+{
+  "name": "beans-paradise",
+  "version": "1.0.0",
+  "scripts": {
+    "install-all": "npm install && cd client && npm install"
+  }
+}
