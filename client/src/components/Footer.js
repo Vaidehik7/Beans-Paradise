@@ -57,7 +57,7 @@ export default function Footer() {
         <div className="container">
           <div className="footer-bottom-inner">
             <p>© 2025 Beans Paradise. Made with ☕ in Ichalkaranji.</p>
-            <p className="footer-tagline">Soft buns, simple flavors, that perfect snack moment 💛</p>
+            <p className="footer-tagline">Made by vaidehi_vaze💛</p>
           </div>
         </div>
       </div>
